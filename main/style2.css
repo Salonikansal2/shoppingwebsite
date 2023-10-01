@@ -1,0 +1,55 @@
+.alert {
+    margin-bottom: 0px;
+   }
+.alert-info {
+    color: #ffffff;
+    background-color: #977CB7;
+    border-color: #bee5eb;  
+}
+
+.alert p{
+    text-align: center; 
+}
+
+.navbar img{
+    height: 50px;
+}
+.removed button {
+    background: #977CB7;
+    color: #ffffff;
+}
+.removed button:hover {
+background-color: #a668f1;
+    color: #ffffff;
+}
+
+.carousel-control-prev-icon{
+    background-color: #977CB7;
+    border-radius: 12px;
+
+}
+.carousel-control-next-icon{
+    background-color: #977CB7;
+    border-radius: 12px;
+}
+
+.custom-select{
+    width: auto;
+}
+
+
+.add-to-cart button{
+    background-color: #977CB7;
+    border: #977CB7;
+}
+.add-to-cart button:hover{
+    background-color: #a668f1;
+    color: #ffffff;
+
+}
+
+
+
+.my-footer{
+background: #977CB7;
+}
